@@ -1,5 +1,8 @@
 # TOVÁBBFEJLESZTÉSI LEHETŐSÉGEK:
-# 25 év alatti szja kedvezmény
+# - 25 év alatti szja kedvezmény
+# - Ellenőrizni több szempontból is a bevitt bruttót, formázási szempontból, van-e benne más érték(betű, szimbólum),
+# pozitív vagy negatív
+# - Valami formázást kialakítani (táblázat vagy valami mást, hogy szebb legyen a kiírás)
 
 brutto_fizetes = int(input("Kérem adja meg bruttóban jelenlegi fizetését: "))
 
